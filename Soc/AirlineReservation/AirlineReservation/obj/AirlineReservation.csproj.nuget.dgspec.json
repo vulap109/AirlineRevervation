@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project Semester 3\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj": {}
+    "D:\\Project Semester 3\\AirlineRevervation\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj": {}
   },
   "projects": {
-    "D:\\Project Semester 3\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj": {
+    "D:\\Project Semester 3\\AirlineRevervation\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project Semester 3\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj",
+        "projectUniqueName": "D:\\Project Semester 3\\AirlineRevervation\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj",
         "projectName": "AirlineReservation",
-        "projectPath": "D:\\Project Semester 3\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj",
+        "projectPath": "D:\\Project Semester 3\\AirlineRevervation\\Soc\\AirlineReservation\\AirlineReservation\\AirlineReservation.csproj",
         "packagesPath": "C:\\Users\\vuqua\\.nuget\\packages\\",
-        "outputPath": "D:\\Project Semester 3\\Soc\\AirlineReservation\\AirlineReservation\\obj\\",
+        "outputPath": "D:\\Project Semester 3\\AirlineRevervation\\Soc\\AirlineReservation\\AirlineReservation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
